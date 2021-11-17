@@ -32,7 +32,7 @@
   - Eventuele verzekeringen
   - Eventueel kosten boekhouder
 - ### Hoe blijf ik sociaal ten laste van mijn ouders? 
-  - [ ] Verdien netto niet meer dan 4.920 en bruto niet meer dan 8.990 (omdat ouders apart worden belast) [extra info](https://financien.belgium.be/nl/particulieren/gezin/student/ten_laste#q2)
+  - Verdien netto niet meer dan 4.920 en bruto niet meer dan 8.990 (omdat ouders apart worden belast) [extra info](https://financien.belgium.be/nl/particulieren/gezin/student/ten_laste#q2)
 - ### Belastingen?  
   -  #### <a id="personenbelasting"></a>Personenbelasting 
      - Wat je verdient boven de belastingvrije som van 9.050 euro, wordt belast volgens de ‘opklimmende tarieven van de personenbelasting’. Dezelfde regeling geldt trouwens voor loontrekkenden.
