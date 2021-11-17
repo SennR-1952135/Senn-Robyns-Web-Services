@@ -73,4 +73,4 @@
 
 ### Bronnen
 - [Xerius](https://www.xerius.be/nl-be/zelfstandig-worden/je-voorbereiding/starten-als-student-zelfstandige)
-- [SBB Startergids](SBB_Startersgids.pdf)
+- [SBB Startergids](Resources/SBB_Startersgids.pdf)
