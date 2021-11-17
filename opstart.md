@@ -25,7 +25,7 @@
   - Financieel plan: tot slot maak je een uitgebreid kostenplaatje van je geplande uitgaven en verwachte inkomsten. Ga hier diep genoeg op in: hoe beter je je voorbereidt, hoe kleiner de kans dat je voor onaangename verrassingen komt te staan.
   - **Begin je met een bescheiden bedrijfje, dan volstaat mogelijk het Business Model Canvas**
 - #### Kosten student-zelfstandige
-  - Opstartkosten: €51,30 *(€ 157,05 via xerius, wij regelen btw nummer, enz...)*
+  - Opstartkosten: €51,30 *(€ 157,05 via xerius, zij regelen btw nummer, enz...)*
   - Sociale bijdragen: de forfaitaire minimumbijdrage van € 82,05 + [eventuele extra sociale bijdrage](#sociale-bijdrage)
   - Provinciebelastingen: minimum € 62 in Limburg [extra info](https://www.limburg.be/provinciebelastingenbedrijven)
   - [Personenbelasting](#personenbelasting)
