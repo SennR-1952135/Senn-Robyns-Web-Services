@@ -35,16 +35,16 @@
   - [ ] Verdien netto niet meer dan 4.920 en bruto niet meer dan 8.990 (omdat ouders apart worden belast) [extra info](https://financien.belgium.be/nl/particulieren/gezin/student/ten_laste#q2)
 - ### Belastingen?  
   -  #### <a id="personenbelasting"></a>Personenbelasting 
-    - Wat je verdient boven de belastingvrije som van 9.050 euro, wordt belast volgens de ‘opklimmende tarieven van de personenbelasting’. Dezelfde regeling geldt trouwens voor loontrekkenden: 
-    - |Netto belastbaar inkomen|Percentage belasting op inkomen|
+     - Wat je verdient boven de belastingvrije som van 9.050 euro, wordt belast volgens de ‘opklimmende tarieven van de personenbelasting’. Dezelfde regeling geldt trouwens voor loontrekkenden: 
+     - |Netto belastbaar inkomen|Percentage belasting op inkomen|
       |----------|-------------|
       |Minder dan 9.050 euro|0%|
       |9.050 euro tot 13.540 euro|25%|
       |13.540 tot 23.900 euro|40%|
       |23.900 tot 41.360 euro|45%|
       |Boven de 41.360 euro|50%|
-    - Het grensbedrag van 9.050 euro slaat op je netto belastbare jaarinkomen. Dat betekent: je omzet min je beroepskosten. (zie voorbeeld) 
-    - **Voorbeeld** 
+     - Het grensbedrag van 9.050 euro slaat op je netto belastbare jaarinkomen. Dat betekent: je omzet min je beroepskosten. (zie voorbeeld) 
+     - **Voorbeeld** 
     Je hebt als student-zelfstandige 10.000 euro verdiend. Maar tijdens het jaar kocht je ook een laptop en een smartphone die je voor je zaak gebruikt. Bovendien heb je huur betaald aan een coworkingspace. Al die zaken kan je ‘aftrekken’ als beroepskosten (zie pagina 13), waardoor je slechts 7.600 euro inkomsten overhoudt. Resultaat: je blijft onder de grens en hoeft geen belastingen te betalen.
   - #### <a id="sociale-bijdrage"></a> Sociale bijdrage
     - De kern van het statuut student-zelfstandige? Je betaalt ofwel géén, ofwel verminderde sociale bijdragen. Je netto belastbaar jaarinkomen – je bruto omzet op een jaar min je beroepskosten – dient daarvoor als graadmeter.
